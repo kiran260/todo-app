@@ -1,0 +1,33 @@
+body{
+    background:url('./3hb.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: 1380px 900px;
+  }
+
+.main{
+  
+    
+}
+.li{
+    width: 200px;
+    border-color: aquamarine;
+}
+#ul{
+    list-style-type: square;
+    color: black ;
+    margin: 0 auto;
+    width: 400px;
+    float: left;
+    
+  
+    font-size: 18px;
+    font-weight: bold;
+    
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+    text-transform: capitalize;
+
+   
+
+}
